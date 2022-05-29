@@ -1,6 +1,5 @@
 numpy
 pandas
-scikit-image
 sklearn
 matplotlib
 ipywidgets
