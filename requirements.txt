@@ -11,4 +11,4 @@ ipywidgets
 ipyplot
 torch
 torchvision
-urllib.request
+urllib
