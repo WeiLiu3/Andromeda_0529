@@ -1,7 +1,5 @@
 numpy
 pandas
-python-math
-opencv-python-headless
 scikit-image
 sklearn
 matplotlib
