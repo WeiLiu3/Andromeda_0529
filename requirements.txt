@@ -11,4 +11,3 @@ ipywidgets
 ipyplot
 torch
 torchvision
-urllib
