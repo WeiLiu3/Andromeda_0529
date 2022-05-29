@@ -4,7 +4,3 @@ scikit-image
 sklearn
 matplotlib
 ipywidgets
-ipyplot
-IPython
-torch
-torchvision
