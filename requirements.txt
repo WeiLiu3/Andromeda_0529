@@ -4,4 +4,3 @@ sklearn
 matplotlib
 ipywidgets
 IPython
-opencv-python-headless
